@@ -1,6 +1,0 @@
-photoenv/
-db.sqlite3/
-__pychache__/
-
-*.log
-*.pyc
