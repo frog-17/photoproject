@@ -1,5 +1,5 @@
 photoenv/
-db.sqlite3
+db.sqlite3/
 __pychache__/
 
 *.log
